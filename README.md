@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dipak Yadav / @Dipak12221
-- 👀 I’m interested in Coding and develope software
-- 🌱 I’m currently learning Mern Stack.
+- 👀 I'm Full stack Developer.
+- 🌱 I’m currently Working Mern Stack.
 - 😄 Pronouns: Software Developer
   
 
